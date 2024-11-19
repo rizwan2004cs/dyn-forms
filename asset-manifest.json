@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dyn-forms/static/css/main.0ac15085.css",
+    "main.js": "/dyn-forms/static/js/main.c44dd0e8.js",
+    "static/js/453.1ea3a731.chunk.js": "/dyn-forms/static/js/453.1ea3a731.chunk.js",
+    "index.html": "/dyn-forms/index.html",
+    "main.0ac15085.css.map": "/dyn-forms/static/css/main.0ac15085.css.map",
+    "main.c44dd0e8.js.map": "/dyn-forms/static/js/main.c44dd0e8.js.map",
+    "453.1ea3a731.chunk.js.map": "/dyn-forms/static/js/453.1ea3a731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac15085.css",
+    "static/js/main.c44dd0e8.js"
+  ]
+}
